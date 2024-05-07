@@ -1,0 +1,28 @@
+.table {
+    width: 350px;
+}
+
+.table thead {
+    background-color: rgb(236, 236, 236);
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(143, 143, 143);
+    height: 40px;
+}
+
+.table tbody {
+    height: 50px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #4b4b4b;
+    cursor: pointer;
+}
+
+.table tr {
+    height: 30px;
+}
+
+.table th {
+    height: 40px;
+    border-bottom: 2px solid #eaeaea;
+}
